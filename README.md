@@ -1,6 +1,5 @@
-<p align="center">
-  ![My Image](ss.png)
-</p>
+![](ss.png)
+
 # ARCA SmartSaver 
 ## Developed in collaboration between Nasif Ahmed and Mohammed Alroobi
 
