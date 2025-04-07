@@ -17,9 +17,6 @@ ARCA SmartSaver is a data-driven application designed to help users track their 
 
 ## Features
 
-- **User Authentication**
-  - Secure login system to protect your financial data
-
 - **Expense & Income Tracking**
   - Add, view, edit, and delete expense and income entries
   - Categorize entries (Expenses: Food, Groceries, Entertainment, Transportation, Bills)
