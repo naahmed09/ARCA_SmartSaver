@@ -46,10 +46,12 @@ ARCA SmartSaver is a data-driven application designed to help users track their 
 
 ```bash
 # Clone the repository
-git clone https://github.com/naahmed09/SmartSaverV2.git
+git clone https://github.com/naahmed09/ARCA_SmartSaver.git
+
+# Make sure all path's are accurate so the script does not error
 
 # Run the application
-python main.py
+python gui.py
 ```
 
 ## Usage
