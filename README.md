@@ -1,4 +1,6 @@
-![SmartSaver Logo](ss.png)
+<div align="center">
+  ![SmartSaver](ss.png)
+</div>
 # ARCA SmartSaver 
 ## Developed in collaboration between Nasif Ahmed and Mohammed Alroobi
 
