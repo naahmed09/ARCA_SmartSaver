@@ -1,4 +1,5 @@
 # ARCA SmartSaver
+## Developed in collaboration between Nasif Ahmed and Mohammed Alroobi
 
 A comprehensive personal finance application for tracking expenses, income, and generating insights to help you save money.
 
@@ -76,6 +77,3 @@ Key ML components:
 - Classification of expenses as necessary or potentially unnecessary
 - Regular model updates based on user feedback and spending patterns
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
