@@ -1,3 +1,25 @@
+# ARCA SmartSaver
+
+A comprehensive personal finance application for tracking expenses, income, and generating insights to help you save money.
+
+## Table of Contents
+- [Overview](#overview)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Dependencies](#dependencies)
+- [Machine Learning Features](#machine-learning-features)
+- [Contributing](#contributing)
+
+## Overview
+
+ARCA SmartSaver is a data-driven application designed to help users track their financial activities, visualize spending patterns, and identify potential savings opportunities through AI-powered expense analysis.
+
+## Features
+
+- **User Authentication**
+  - Secure login system to protect your financial data
+
 - **Expense & Income Tracking**
   - Add, view, edit, and delete expense and income entries
   - Categorize entries (Expenses: Food, Groceries, Entertainment, Transportation, Bills)
