@@ -1,4 +1,4 @@
-# __________________ ![](ss.png) ___________________
+# ______________ ![](ss.png) ___________________
 
 # ARCA SmartSaver 
 ## Developed in collaboration between Nasif Ahmed and Mohammed Alroobi
