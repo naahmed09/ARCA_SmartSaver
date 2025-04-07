@@ -1,4 +1,5 @@
-# ARCA SmartSaver ![SmartSaver Logo](ss.png)
+![SmartSaver Logo](ss.png)
+# ARCA SmartSaver 
 ## Developed in collaboration between Nasif Ahmed and Mohammed Alroobi
 
 A comprehensive personal finance application for tracking expenses, income, and generating insights to help you save money.
