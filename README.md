@@ -1,4 +1,6 @@
-# ______________ ![](ss.png) ___________________
+<p align="center">
+  <img src="https://github.com/naahmed09/ARCA_SmartSaver/blob/main/ss.png" alt="Smart Saver Logo">
+</p>
 
 # ARCA SmartSaver 
 ## Developed in collaboration between Nasif Ahmed and Mohammed Alroobi
